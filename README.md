@@ -1,1 +1,3 @@
-# Modern-Chess
+# Real Time Chess - Built Using Assembly Language
+This repository contains an interesting variation of the chess game; there are no turns. In other words, if one player takes up too much time, the other one might simply keep moving their pieces and gain an advantage. Furthermore, every piece has a timer associated with it, the timer must pass before the piece is allowed to move again. The game is fully built using x86 assembly, and rewards rapid playstyles. Two players can have a match if they are connected to the same network, and the game supports inline chatting between those two players. The GUI is shown below: 
+![image](https://user-images.githubusercontent.com/101427765/217082995-4474523a-3be7-4ff0-af05-fe62fcf86b7f.png)
